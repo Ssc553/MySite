@@ -9,10 +9,32 @@
 /*--------------------------------------------------------------
 eral
 --------------------------------------------------------------*/
+
+div.transbox {
+  margin: 0px;
+  background-color: #fff;
+  border: 1px solid black;
+  opacity: 0.5;
+  color: black;
+  border-radius: 1%;
+}
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
   
+}
+.img-fluid {
+  background-size: cover;
+ width: 100%;
+}
+
+.img {
+  background-size: cover;
+height: 300px;
+
+ width: 100%;
 }
 
 .pic {
